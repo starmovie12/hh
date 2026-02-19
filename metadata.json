@@ -1,0 +1,8 @@
+{
+  "name": "Remix: MFLIX - Premium HD Streaming",
+  "description": "Premium cinematic experience matching top-tier mobile streaming standards with fluid carousels and glass-morphism UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
